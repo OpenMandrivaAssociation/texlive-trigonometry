@@ -1,6 +1,6 @@
 Name:		texlive-trigonometry
 Version:	43006
-Release:	1
+Release:	2
 Summary:	Demonstration code for cos and sin in TeX macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/trigonometry
