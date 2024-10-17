@@ -3,7 +3,7 @@ Version:	43006
 Release:	2
 Summary:	Demonstration code for cos and sin in TeX macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/trigonometry
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/trigonometry
 License:	knuth
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/trigonometry.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/trigonometry.doc.r%{version}.tar.xz
